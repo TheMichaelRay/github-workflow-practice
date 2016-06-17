@@ -6,5 +6,5 @@ var app = express()
 
 app.listen(3000, function(err){
   if(err) return console.log(err)
-  console.log("Server running on 3000. Huzahhh. lolz.")
+  console.log("Server running on 3000. Affirmative cap'n, all systems ago. lolz just kidding no lolz all serious.")
 })
