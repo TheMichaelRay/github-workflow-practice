@@ -1,2 +1,2 @@
-// Initial upload
+// Initial commit
 // here's where code goes
