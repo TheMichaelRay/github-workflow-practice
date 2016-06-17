@@ -1,7 +1,7 @@
 // Initial commit
 // here's where code goes
 var express = require('express')
-var logger  = require('morgan')
+var logger  = require('winston')
 var app = express()
 var bodyParser = require('body-parser')
 var mongoose = require('mongoose')
